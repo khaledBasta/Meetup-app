@@ -1,5 +1,6 @@
 import MeetupList from "../components/meetups/MeetupList";
 import Layout from "../components/layout/Layout";
+
 const DUMMY_LIST = [
   {
     id: "m1",
